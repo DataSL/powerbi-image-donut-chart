@@ -1,7 +1,7 @@
 {
   "name": "powerbi-image-donut-chart",
   "description": "Donut chart that shows a picture on each segment, with interactive selection and full formatting from the Power BI format pane.",
-  "version": "1.0.0.0",
+  "version": "1.0.1.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DataSL/powerbi-image-donut-chart.git"
@@ -20,7 +20,7 @@
     "core-js": "^3.33.1",
     "dompurify": "^3.2.2",
     "lodash.debounce": "^4.0.8",
-    "powerbi-visuals-api": "~5.3.0",
+    "powerbi-visuals-api": "~5.10.0",
     "powerbi-visuals-utils-dataviewutils": "^6.0.1",
     "powerbi-visuals-utils-formattingmodel": "6.0.0",
     "powerbi-visuals-utils-tooltiputils": "^6.0.1",
