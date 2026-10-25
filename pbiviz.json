@@ -1,0 +1,26 @@
+{
+    "visual": {
+        "name": "dslImageDonutChart",
+        "displayName": "Image Donut Chart (Open Source)",
+        "guid": "dslImageDonutChart925CD6F37F67401BB1BB0B84CED6B14C",
+        "visualClassName": "Visual",
+        "version": "1.0.0.0",
+        "description": "Donut chart that shows a picture on each segment, with interactive selection and full formatting from the Power BI format pane.",
+        "supportUrl": "https://github.com/DataSL/powerbi-image-donut-chart/issues",
+        "gitHubUrl": "https://github.com/DataSL/powerbi-image-donut-chart"
+    },
+    "apiVersion": "5.3.0",
+    "author": {
+        "name": "Data SL Consulting",
+        "email": "contact@data-slconsulting.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": [],
+    "version": "1.0.0.0"
+}
